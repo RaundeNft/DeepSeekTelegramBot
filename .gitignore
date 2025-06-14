@@ -4,3 +4,4 @@ __pycache__
 .env 
 downloads/ 
 chat_history.json
+.env 
